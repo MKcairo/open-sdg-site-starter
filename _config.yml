@@ -20,7 +20,7 @@ url: ""
 data_dir: data
 environment: staging
 # Replace my-github-org and open-sdg-data-starter as needed.
-remote_data_prefix: "https://MKcairo/open-sdg-data-starter"
+remote_data_prefix: "https://MKcairo.github.io/open-sdg-data-starter"
 remote_translations:
   - https://open-sdg.github.io/sdg-translations/translations-0.8.1.json
 
